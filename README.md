@@ -1,15 +1,15 @@
 # NLP_Final_Project
 Music emotion prediction based on lyrics and probability
-
+"""
 This project is for UTD 2017 Spring Natural Language Processing course final project under professor Dr. Moldovan.
 
 Using feature:
 
--Supervised Learning idea 
--Naive Bayesian Classifier idea 
--Part-of-speech tagging
--Probability and statistics
--Natural Language Toolkit (NLTK)
+*Supervised Learning idea 
+*Naive Bayesian Classifier idea 
+*Part-of-speech tagging
+*Probability and statistics
+*Natural Language Toolkit (NLTK)
 
 Since I haven't learned Machine Learning or Artificial Intelligencelearn courses yet, I can only imitate some methods of ideas of Supervised Learning or Naive Bayesian Classifier.
 
