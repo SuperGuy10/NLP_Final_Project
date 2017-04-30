@@ -26,7 +26,7 @@ HP_genres_dict = {}
 SD_genres_dict = {}
 
 
-with open(r"D:\UTD\Courses\2017Spring\NLP\FinalProject\data.csv", encoding = "utf-8") as myFile:
+with open(r"the path of the file\data.csv", encoding = "utf-8") as myFile:
     reader = csv.DictReader(myFile)
     
     for row in reader:
