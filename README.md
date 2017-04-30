@@ -15,4 +15,4 @@ This is my first Python project and also my first project published on GitHub.
 * Probability and statistics
 * Natural Language Toolkit (NLTK)
 
-Since I haven't learned Machine Learning or Artificial Intelligencelearn courses yet, I can only imitate some methods of ideas of Supervised Learning or Naive Bayesian Classifier.
+Since I haven't learned Machine Learning or Artificial Intelligence courses yet, I can only imitate some ideas of Supervised Learning or Naive Bayesian Classifier.
