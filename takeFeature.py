@@ -43,7 +43,7 @@ with open(r"the path of the file\data.csv", encoding = "utf-8") as myFile:
             else:
                 HP_artists_dict[row["artist"]] += 1
         
-        #count artist appearence under happy mood
+        #count artist appearence under sad mood
         if row["mood"] == "sad":
             if row["artist"] not in SD_artists_dict :
                 SD_artists_dict[row["artist"]] = 1
