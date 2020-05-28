@@ -1,7 +1,7 @@
-# NLP_Final_Project
+# NLP_Project
 Music emotion prediction based on lyrics and probability
 ## Introduction
-This project is for UTD 2017 Spring Natural Language Processing course final project under professor Dr. Moldovan.
+This project is to try something in Natural Language Processing course farea.
 
 The goal is to distinguish happy and sad two emotions of entire lyric based on the initial experiments on a preliminary data set of 200 lyrics with different artists and genres which already being classified as happy or sad emotion.
 
@@ -15,4 +15,3 @@ This is my first Python project and also my first project published on GitHub.
 * Probability and statistics
 * Natural Language Toolkit (NLTK)
 
-Since I haven't learned Machine Learning or Artificial Intelligence courses yet, I can only imitate some ideas of Supervised Learning or Naive Bayesian Classifier.
